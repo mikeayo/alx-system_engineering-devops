@@ -1,3 +1,2 @@
--e#!/bin/bash\ncd
 #!/bin/bash
-cd
+ls -l
